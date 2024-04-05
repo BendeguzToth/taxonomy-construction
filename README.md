@@ -1,5 +1,5 @@
 # taxonomy-construction
-Code for the thesis *Taxonomy Construction with Reinforcement Learning*.
+Code for the paper *Taxonomy Construction with Reinforcement Learning*.
 ## Dependencies
 Python 3 with
 * dyNet==2.1.2
